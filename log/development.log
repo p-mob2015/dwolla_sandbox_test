@@ -1,0 +1,28 @@
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.000913s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.000913s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.000809s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.0010659999999999999s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.0010069999999999999s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.00085s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.001263s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.001062s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.0012s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.0010370000000000002s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.001374s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.0007570000000000001s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.001052s
+MONGODB | localhost:27017 | dwolla_test_development.find | STARTED | {"find"=>"token_data", "filter"=>{"account_id"=>"4837b9e5-8fc5-4501-b9b1-21725918a50a"}, "sort"=>{"created_at"=>-1}, "limit"=>1, "singleBatch"=>true}
+MONGODB | localhost:27017 | dwolla_test_development.find | SUCCEEDED | 0.0009780000000000001s
